@@ -12,7 +12,7 @@ The project addresses a series of data quality tasks involving event records, pu
 
 The repository was created to address the following data-cleaning activities.
 
-### Task 1 – Event Date Standardisation
+### Task 1 –Filter Eprint type & Event Date Standardisation
 
 **Source file:** `metadata_extract_20260127.xlsx`
 
@@ -46,7 +46,7 @@ Examples:
 
 ---
 
-### Task 2 – Publisher Name Standardisation
+### Task 2 – Filter Eprint Type & Publisher Name Standardisation
 
 **Source file:** `metadata_extract_20260127.xlsx`
 
