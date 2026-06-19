@@ -42,7 +42,7 @@ SCRIPT_MAP = {
 
     "dates": BASE_DIR / "date_standardisation_task_one_activity_two.py",
 
-    "publishers": BASE_DIR / "publisher_name_standardisation_task_two_activity_one.py",
+    "publishers": BASE_DIR / "publisher_name_standardisation_1.py",
 
 }
  
